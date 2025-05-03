@@ -1,9 +1,9 @@
 const mega = require("megajs");
 
 const auth = {
-    email: 'khandmzmxjx@gmail.com',   //use your real vaild mega account email
-    password: 'amamam@@120120',  ////use your real vaild mega account password
-    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246'
+    email: 'petersuccessful73@gmail.com',   //use your real vaild mega account email
+    password: 'Aiyeki.67',  ////use your real vaild mega account password
+    userAgent: 'Mozilla/5.0(Linux; Android 10; K) AppleWebKit/537.36 (K HTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36'
 };
 
 const upload = (data, name) => {
